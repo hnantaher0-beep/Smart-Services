@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://phenomenal-pie-45001a.netlify.app/sitemap.xml
